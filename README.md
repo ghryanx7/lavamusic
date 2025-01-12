@@ -1,4 +1,4 @@
-<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lavamusic&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ARINO&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 [![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
